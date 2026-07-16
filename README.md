@@ -1,3 +1,6 @@
+# Next Blog
+
+```text
 blog-app/
 │
 ├── app/
@@ -88,3 +91,4 @@ blog-app/
 ├── tsconfig.json
 ├── package.json
 └── README.md
+```
